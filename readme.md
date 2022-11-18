@@ -1,3 +1,4 @@
+# my Parallax project
 This is a fictional blog for a photographer who posts about themselves, their skills and shares examples of their photos
 ## App
 ![Home](assets/images/home.png)
