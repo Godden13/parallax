@@ -395,7 +395,7 @@ body {
     width: 100%;
     margin: auto;
   }
-  
+
   .nav,
   #search {
     display: none;
@@ -418,7 +418,6 @@ body {
     border: none;
     opacity: 0.6;
     position: fixed;
-
   }
 
   body {
@@ -466,6 +465,7 @@ body {
   .ne {
     border: 0;
   }
+
   .ne input {
     width: 100%;
   }
